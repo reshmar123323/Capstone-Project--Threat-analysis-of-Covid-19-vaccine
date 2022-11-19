@@ -1,4 +1,4 @@
-#Life Threatening Prediction due to the adverse effects of Covid-19 Vaccination
+Life Threatening Prediction due to the adverse effects of Covid-19 Vaccination
 
 The COVID-19 pandemic affected people of all ages around the world. Therefore, this vaccine was developed and made publicly available in an unprecedented era. The Vaccine Adverse Event Reporting System; is a national early warning system for detecting potential safety issues with vaccines approved in the United States.
 VAERS is a passive reporting system. That is, individuals submit a report of their experience to the CDC and FDA. VAERS is not designed to determine if a vaccine has caused health problems, but it has abnormal or unexpected patterns of adverse events that may indicate potential vaccine safety problems. Especially useful for detecting. In this way, VAERS can provide the CDC and FDA with valuable information that additional work and evaluation is required to further assess potential safety concerns.
